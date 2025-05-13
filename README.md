@@ -19,11 +19,11 @@ Projekt ukończony
 
 ## Demonstracja
 
-## Raspberry Pi
+### Raspberry Pi
 
 https://youtu.be/Un6UaDslhQM
 
-## PC
+### PC
 
 https://github.com/user-attachments/assets/2e7d0c01-737f-47e6-81e9-c01fe730d73a
 
